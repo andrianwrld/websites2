@@ -1,0 +1,75 @@
+.berserk {
+    display: block;
+    width: 300px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+
+}
+
+.goku {
+    width: 50px;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 50px;
+    vertical-align: bottom;
+    margin-top: 3px;
+}
+
+.box {
+    display: block;
+    border-radius: 100px;
+    font-size: 50px;
+}
+
+.berk {
+    font-family: Arial;
+    font-weight: bold;
+    text-align: left;
+    width: 200px;
+    margin-top: 3px;
+}
+
+.first, .second, .f1, .f2, .s1, .s2 {
+    display: inline-block;
+}
+
+.first {
+    margin-right: 15px;
+}
+
+.second {
+    vertical-align: top;
+}
+
+.nuts {
+    width: 300px;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+}
+
+.nus {
+    font-family: Arial;
+    font-weight: bold;
+    text-align: left;
+    width: 200px;
+    margin-top: 3px;
+}
+
+.f2 {
+    vertical-align: top;
+}
+
+.goku2 {
+    width: 50px;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 50px;
+}
+
+.s2 {
+    vertical-align: top;
+}

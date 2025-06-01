@@ -1,0 +1,39 @@
+body {
+    padding-bottom: 1000px;
+}
+
+.first {
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    margin-top: 30px;
+}
+
+.second {
+    display: grid;
+    grid-template-columns: 100px 1fr 2fr;
+    margin-top: 30px;
+}
+
+.third {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 20px;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+
+.div1 {
+    background-color: aqua;
+}
+
+.div2 {
+    background-color: blueviolet;
+}
+
+.div3 {
+    background-color: aqua;
+}
+
+.div4 {
+    background-color: blueviolet;
+}
